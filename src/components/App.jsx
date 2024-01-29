@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react'
 import Square from './Square'
-import { Patterns } from './Patterns'
+import { Patterns } from '../helpers/Patterns'
 
 export default function App() {
 
